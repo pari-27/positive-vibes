@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Positive vibes
 
 You can use the [editor on GitHub](https://github.com/pari-27/positive-vibes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
