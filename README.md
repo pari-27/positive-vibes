@@ -1,3 +1,4 @@
+theme: jekyll-theme-architect
 # positive-vibes
 positivity turns struggles to success
 <HTML>
