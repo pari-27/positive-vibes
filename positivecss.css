@@ -29,7 +29,7 @@ background-repeat:no-repeat;
 #page{ margin: 20px; }
 
 /* or on different lines like below */
-#logolink{font-size:280%;color:#EDED71}
+#logolink{font-size:280%;color:#EDED71;font-family:Comic Sans MS}
 #logolink:hover{ color: blue;}
 #logo{
 	width: 55%;
