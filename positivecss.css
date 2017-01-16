@@ -60,7 +60,7 @@ backgroung-repeat:no-repeat;}
 
 #content{
 	margin: 30px 0;
-	background: #F6F9B8;
+	background: rgba(0,0,0,0);
         color:black;
 	padding: 20px;
 	clear: both;
