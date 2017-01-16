@@ -21,7 +21,7 @@ a{
 
 body{
     font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background-image:url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD0Au4zyQPau9ob1CNtnaySdmYNs4lGAlz8A6MPzNOmVn79a8H);
-}
+backgroung-repeat:no-repeat;}
 /* you can put your code all in one line like above */
 #page{ margin: 20px; }
 
