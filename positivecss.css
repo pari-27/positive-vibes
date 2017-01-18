@@ -83,7 +83,7 @@ background-repeat:no-repeat;
 
  */
 #content,
-ul li a{ box-shadow: 0px 1px 1px #999; }
+ul li a{ box-shadow: 0px 1px 1px #999;padding:20px }
 img {
    padding:1px;
    border:1px solid #021a40;
