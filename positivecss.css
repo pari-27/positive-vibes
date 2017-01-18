@@ -1,4 +1,4 @@
-#menu,ul,li,a{display:inline;}
+#menu,ul,li,a{display:inline;padding:20px}
 p{ line-height:1em;
 display:inline-block;
 padding:50px;
