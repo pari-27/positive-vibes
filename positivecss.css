@@ -1,6 +1,6 @@
 p{ line-height: 1em;
 display:inline-block;
-padding:30px;
+padding:50px;
 font-size:190%; }
 h1, h2, h3, h4{
     color: orange;
@@ -89,7 +89,7 @@ img {
 	border-radius:250px;
 }
 .story{
-	font-size:120%;
+	font-size:150%;
 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	
 	
