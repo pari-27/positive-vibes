@@ -20,7 +20,7 @@ a{
 /* you can structure your code's white space so that it is as readable for when you come back in the future or for other people to read and edit quickly */
 
 body{
-    font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background-image:url(http://wallpaperhdn.com/wp-content/uploads/Butterfly-wallpaper-hd-backgrounds.jpg);
+    font-family: arial; font-size: 80%; line-height: 1.2em; width: 100%; margin: 0; background-image:url(https://s-media-cache-ak0.pinimg.com/236x/2e/5b/62/2e5b620409e9a8bb818c82f55afbb16a.jpg);
 background-repeat:no-repeat;
  width:100%;
     background-size: cover;
@@ -64,7 +64,7 @@ background-repeat:no-repeat;
 #content{
 	margin: 30px 0;
 	background: rgba(0,0,0,0);
-        color:blue;
+        color:FFF5EE;
 	padding: 20px;
 	clear: both;
 	font-family:"Trebuchet MS", Helvetica, sans-serif;
